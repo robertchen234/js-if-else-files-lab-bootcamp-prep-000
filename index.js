@@ -14,7 +14,7 @@ if (height === "70") {
   console.log("The height is correct")
 } else {
   
-  parseInt height = 70;
+  var height = 70;
 }
 
 
