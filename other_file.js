@@ -1,5 +1,5 @@
 console.log(name)
 
-var index = require("./ind ex.js")
+var index = require("./index.js")
 
 console.log(index.name)
